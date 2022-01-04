@@ -1,0 +1,257 @@
+.Main_Box_1{
+    height: 610px;
+    width: 500px;
+    background-color:#F5EEDC;
+    margin-left: 200px;
+    margin-top: 45px;
+    float: left;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.Main_Box_2{
+    height: 610px;
+    width: 500px;
+    background-color: #F5EEDC;
+    float: right;
+    margin-right: 200px;
+    margin-top: 45px;
+    border-radius: 15px;
+    overflow: hidden;
+}
+.game_box{
+    width: 434px;
+    height: 167px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 35px;
+}
+.home_pic{
+    position: absolute;
+    height: 250px; 
+    width: 250x;
+    margin-left: 120px;
+    margin-top: 80px;
+}
+.Play{
+    height: 63px;
+    width: 350px;
+    background-color: #FFCC1D;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 400px;
+    border-radius: 30px;
+    border: 1px;
+}
+.Play_text{
+    padding-left: 95px;
+    padding-top: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+.How{
+    height: 63px;
+    width: 350px;
+    background-color: #FFCC1D;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 30px;
+    border: 1px;
+}
+.How_text{
+    padding-left: 120px;
+    padding-top: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    font-weight: bold;
+    color: black;
+}
+.computer{
+    height: 167px;
+    width: 140px;
+    float: left;   
+    border-radius: 15px;
+    overflow: hidden;
+    border: 4px solid #706135;
+    background-color: #FFDD79;
+
+}
+.Me{
+    height: 167px;
+    width: 140px;
+    float: left;
+    border-radius: 15px;
+    overflow: hidden;
+    border: 4px solid #706135;
+    background-color: #FFDD79;
+
+    
+}
+.VS{
+    height: 30px;
+    width: 50px;
+    float: left;
+    background-color:#706135;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+    margin-right: 41px;
+    margin-left:41px ;
+    margin-top: 65px;
+    padding-top: 8px;
+    border-radius: 10px;
+    border: 2px solid #706135;
+
+
+}
+.Box_1{
+    height: 50px;
+    width: 430px;
+    background-color: #FFDD79;
+    border: 3px solid #706135;
+    border-radius: 15px;
+    margin-top: 15px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Box_2{
+    height: 70px;
+    width: 100%;
+    background-color: darkseagreen;
+    margin-top: 40px;
+    position: relative;
+}
+.Home{
+    height: 80px;
+    width: 30%;
+    background-color: #FB9300;
+    float: left;
+    cursor: pointer;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 24px;
+    font-size: 21px;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+
+
+}
+/*.Home_txt{
+    height: 30px;
+    width: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 22px;
+}*/
+
+
+.Play_again{
+    height: 70px;
+    width: 70%;
+    background-color: #FFCC1D;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 24px;
+    cursor: pointer;
+    font-size: 21px;
+    text-shadow: 2px 2px 5px black;
+    color: white;
+}
+.play_btn{
+    height: auto;
+    width:80px ;
+    background-color:#706135;
+    padding: 5px;
+    float: left;
+    border-radius: 10px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    margin-top: 10px;
+    margin-right: 26px;
+    margin-left: 26px;
+    cursor: pointer;
+
+}
+.scoreboard{
+    height: 40px;
+    width: 110px;
+    border-radius: 10px;
+    margin-top: 26px;
+    background-color: #FFCC1D;
+    border: 3px solid #706135;
+}
+.scoreboard_all{
+    height: 50px;
+    width: 100%;
+}
+.scoreboard_comp{
+    float: left;
+    margin-left: 32px;
+}
+.scoreboard_me{
+    float: right;
+    margin-right: 40px;
+}
+.score{
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    float: left;
+    padding-top: 5px;
+    padding-left: 8px;
+}
+.desc{
+    height: 30px;
+    width: 380px;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bold; 
+    font-family: Arial; 
+    margin-top: 18px;
+
+}
+.status{
+    height: 60px;
+    width: 280px;
+    background-color: #706135;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 30px;
+    font-size: 25px;
+    border-radius: 12px;
+    color: white;
+}
+/*.Box_1{
+    height: 222px;
+    width: 516px;
+    background-color: burlywood;
+    margin-left: 30px;
+    margin-top: 40px;
+    position: absolute;
+}
+.Box_2{
+    height: 222px;
+    width: 516px;
+    background-color: crimson;
+    position: absolute;
+    margin-left: 55%;
+    margin-top: 40px;
+}*/
